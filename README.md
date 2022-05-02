@@ -1,2 +1,25 @@
-# AVR-firmws
-just some projects and some libraries for AVR 8 bit microcontrollers
+# AVR Microcontrollers
+
+
+
+## Hardware used
+
+
+
+## Applications content
+* [x] USART : Transmitting and Receive data through USART Hardware Interface (IN PROGRESS)
+* [ ] Pulse Widht Modulation (PWM) : AVR PWM Hardware Interface :pushpin:
+* [ ] External Multicore : Managing tasks from external CPUs
+* [ ] Fuse Bits : AVR Fuse bits and Code protection
+* [ ] DC Motors : Application to control DC Motor
+* [ ] Stepper Motors: Application to managing and control Stepper Motors tasks
+* [ ] A/D converter : Applications to use ADC from AVR microcontroller
+* [ ] LCD 16x2 : Managing flow of characters using LCD 16x2
+* [ ] TCP/IP : General use of sockets over ENC28j60 chipset
+* [ ] TCP/IP : My librarie with TCP/IP stack implementation over ENC28j60 chipset
+* [ ] GSM/GRPS : GSM/GPRS over SIM800c 
+* [ ] GSM/GPRS : My librarie with HTTP Server and Client through GSM/GPRS
+ 
+
+## Note : 
+- 
