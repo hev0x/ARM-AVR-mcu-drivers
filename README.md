@@ -16,9 +16,9 @@
 * [ ] A/D converter : Applications to use ADC from AVR microcontroller
 * [ ] LCD 16x2 : Managing flow of characters using LCD 16x2
 * [ ] TCP/IP : General use of sockets over ENC28j60 chipset
-* [ ] TCP/IP : My librarie with TCP/IP stack implementation over ENC28j60 chipset
+* [ ] TCP/IP : My library with TCP/IP stack implementation over ENC28j60 chipset
 * [ ] GSM/GRPS : GSM/GPRS over SIM800c 
-* [ ] GSM/GPRS : My librarie with HTTP Server and Client through GSM/GPRS
+* [ ] GSM/GPRS : My library with HTTP Server and Client through GSM/GPRS
  
 
 ## Note : 
