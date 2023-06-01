@@ -19,6 +19,8 @@
 * [ ] TCP/IP : My library with TCP/IP stack implementation over ENC28j60 chipset
 * [ ] GSM/GRPS : GSM/GPRS over SIM800c 
 * [ ] GSM/GPRS : My library with HTTP Server and Client through GSM/GPRS
+* [ ] Internal Task Multicore : Library to manage tasks like an RTOS.
+* [ ] AVR Shell: Library to manage a pseudo filesystem through a command interpreter shell unix like.
  
 
 ## Note : 
