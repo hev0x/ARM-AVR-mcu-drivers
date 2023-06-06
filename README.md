@@ -7,8 +7,8 @@
 
 
 ## Applications content
-* [x] USART : Transmitting and Receive data through USART Hardware Interface (IN PROGRESS)
-* [ ] Pulse Widht Modulation (PWM) : AVR PWM Hardware Interface :pushpin:
+* [x] USART : Transmitting and Receive data through USART Hardware Interface (IN PROGRESS) :pushpin:
+* [ ] Pulse Widht Modulation (PWM) : AVR PWM Hardware Interface 
 * [ ] External Multicore : Managing tasks from external CPUs
 * [ ] Fuse Bits : AVR Fuse bits and Code protection
 * [ ] DC Motors : Application to control DC Motor
