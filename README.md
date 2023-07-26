@@ -8,7 +8,7 @@
 
 ## Applications content
 * [x] UART : Transmitting and Receive data through UART Hardware Interface (IN PROGRESS) :pushpin:
-* [ ] I²C / TWI (two-wire interface) protocol: AVR library for data exchange between Master and Slaves trough I²C bus (IN PROGRESS) :pushpin:
+* [x] I²C / TWI (two-wire interface) protocol: AVR library for data exchange between Master and Slaves trough I²C bus (IN PROGRESS) :pushpin:
 * [ ] SPI (*Serial Peripheral Interface*) 
 * [ ] External Multicore : Managing tasks from external CPUs
 * [ ] Fuse Bits : AVR Fuse bits and Code protection
