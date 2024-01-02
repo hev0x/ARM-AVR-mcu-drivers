@@ -35,7 +35,7 @@ GETCHAR_PROTOTYPE
 //User application code example
 
   /* USER CODE BEGIN 2 */
-/*
+
   setvbuf(stdin, NULL, _IONBF, 0); //
 
   char str[80];
@@ -50,7 +50,7 @@ GETCHAR_PROTOTYPE
 
   printf("Mr. %s, %d years old.\n", str, i);
   printf("\r\n");
-*/
+
 ```
 
 
