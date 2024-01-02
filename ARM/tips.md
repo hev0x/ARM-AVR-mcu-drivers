@@ -30,5 +30,27 @@ GETCHAR_PROTOTYPE
   HAL_UART_Transmit(&huart2, (uint8_t *)&ch, 1, HAL_MAX_DELAY);
   return ch;
 }
+
+
+//User application code example
+
+  /* USER CODE BEGIN 2 */
+/*
+  setvbuf(stdin, NULL, _IONBF, 0); //
+
+  char str[80];
+  int i;
+  printf("Enter your family name: ");
+  scanf("%79s", str);
+  printf("\r\n");
+
+  printf("Enter your age: ");
+  scanf("%d", &i);
+  printf("\r\n");
+
+  printf("Mr. %s, %d years old.\n", str, i);
+  printf("\r\n");
+*/
 ```
+
 
